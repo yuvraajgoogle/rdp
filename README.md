@@ -1,7 +1,7 @@
 # RDP_COFFIN
 
 > **2CPU & 7GB RAM**
-by t.me/NocturnalGaming
+by https://t.me/NocturnalGaming
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
 ## PLEASE DON'T MINING CRYPTO AGAIN
